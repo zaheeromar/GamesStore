@@ -1,0 +1,14 @@
+X-Sender: gamesstrore@example.com
+X-Receiver: orders@example.com
+MIME-Version: 1.0
+From: gamesstrore@example.com
+To: orders@example.com
+Date: 27 Jun 2017 12:54:19 +0100
+Subject: New order submitted!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+A new order has been submitted=0D=0A---=0D=0AItems:=0D=0A1 x Brea=
+th of the Wild (subtotal: ?50.00Total order value: ?50.00---=0D=0A=
+Ship to:=0D=0Aname=0D=0Aaddress=0D=0A=0D=0A=0D=0Acity=0D=0Astate=0D=0A=
+country=0D=0A=0D=0A---=0D=0AGift wrap: No
